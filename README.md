@@ -15,6 +15,9 @@ Repositorio del curso de Introducción al Procesamiento de Lenguaje Natural
 
 ### Miércoles
 
+#### Mañana
 - Notebook de Introducción a HF y Transformers: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/profesanti/intro_NLP_PUJ/blob/main/Miercoles/introduction_short.ipynb)
 - [Presentación de Transformers](https://github.com/profesanti/intro_NLP_PUJ/blob/main/Miercoles/Intro_Transformers_PUJsummer.pdf)
 - Notebook de Clasificación con Transformers: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/profesanti/intro_NLP_PUJ/blob/main/Miercoles/classification.ipynb)
+
+#### Tarde
