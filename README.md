@@ -21,3 +21,4 @@ Repositorio del curso de Introducción al Procesamiento de Lenguaje Natural
 - Notebook de Clasificación con Transformers: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/profesanti/intro_NLP_PUJ/blob/main/Miercoles/classification.ipynb)
 
 #### Tarde
+- Taller de Transformer: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/profesanti/intro_NLP_PUJ/blob/main/Miercoles/taller_miercoles_estudiantes.ipynb)
