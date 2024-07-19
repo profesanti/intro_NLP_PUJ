@@ -30,3 +30,7 @@ Repositorio del curso de Introducción al Procesamiento de Lenguaje Natural
 
 #### Tarde
 - Taller de prompt engineering: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/profesanti/intro_NLP_PUJ/blob/main/Jueves/tarde/taller_prompt_eng.ipynb)
+
+## HACKATHON 
+
+**[Instrucciones de la hackathon](https://github.com/profesanti/intro_NLP_PUJ/blob/main/viernes/Hackathon%202024%20-%20Ressolve%20-%20Universidad%20Pontificia%20Javeriana.md) 
